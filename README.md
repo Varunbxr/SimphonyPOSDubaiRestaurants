@@ -9,4 +9,6 @@ and enjoy the scrumptious meal at there own cost.
 
 A big warning for the Restaurants/Hotels vendors(Rather individual sales person) that do not work with these local vendors rather sales person 
 who has no any technical knowledge, which may further leadto financial losses for the restaurant and hotels and can be exploited by the users, i have
-kept it here deliberately for the restaurant and hotels to understand the severity
+kept it here deliberately for the restaurant and hotels to understand the severity.
+
+See the server details : http://192.168.1.104:8080/EGateway/SimphonyPosApiWeb.asmx, try it
